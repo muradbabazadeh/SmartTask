@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SmartTask.Infrastructure\SmartTask.Infrastructure.csproj" />
+    <ProjectReference Include="..\SmartTask.Shared.Dto\SmartTask.Shared.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

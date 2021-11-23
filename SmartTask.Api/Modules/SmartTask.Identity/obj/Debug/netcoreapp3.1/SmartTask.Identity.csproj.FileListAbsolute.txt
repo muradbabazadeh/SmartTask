@@ -1,0 +1,7 @@
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\bin\Debug\netcoreapp3.1\SmartTask.Domain.dll
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\bin\Debug\netcoreapp3.1\SmartTask.SharedKernel.Domain.dll
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\obj\Debug\netcoreapp3.1\SmartTask.Identity.csprojAssemblyReference.cache
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\obj\Debug\netcoreapp3.1\SmartTask.Identity.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\obj\Debug\netcoreapp3.1\SmartTask.Identity.AssemblyInfo.cs
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\bin\Debug\netcoreapp3.1\SmartTask.Infrastructure.dll
+C:\Users\Murad\Desktop\SmartTask\SmartTask.Api\Modules\SmartTask.Identity\bin\Debug\netcoreapp3.1\SmartTask.SharedKernel.Infrastructure.dll

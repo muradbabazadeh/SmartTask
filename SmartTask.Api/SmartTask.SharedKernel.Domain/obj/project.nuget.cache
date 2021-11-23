@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4oe/te1i3LlPFjFNnjyUFLoET2Pt1h5JrpmesMqWxaQVjt3LzxEnnDazvE7aObplrl8GzwHLhLdgKXxdByOBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

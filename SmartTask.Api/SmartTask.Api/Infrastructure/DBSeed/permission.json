@@ -1,0 +1,265 @@
+﻿[
+
+  {
+    "Id": 1,
+    "Name": "Employee_Add",
+    "Description": "İstifadəçi yaratmaq",
+    "Parameters": [
+      {
+        "Id": 1,
+        "Name": "Scope",
+        "Description": "Hamısı",
+        "Type": "String",
+        "DefaultValue": "All"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Employee_Cancel",
+    "Description": "İstifadəçi silmək",
+    "Parameters": [
+      {
+        "Id": 2,
+        "Name": "Scope",
+        "Description": "Hamısı",
+        "Type": "String",
+        "DefaultValue": "All"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Employee_View",
+    "Description": "İstifadəçiyə baxmaq",
+    "Parameters": [
+      {
+        "Id": 3,
+        "Name": "Scope",
+        "Description": "Hamısı",
+        "Type": "String",
+        "DefaultValue": "All"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Receipt_View",
+    "Description": "Qaiməyə baxmaq",
+    "Parameters": [
+      {
+        "Id": 4,
+        "Name": "Scope",
+        "Description": "Hamısı",
+        "Type": "String",
+        "DefaultValue": "All"
+      },
+      {
+        "Id": 5,
+        "Name": "Scope",
+        "Description": "Regions",
+        "Type": "String",
+        "DefaultValue": "Region"
+      },
+      {
+        "Id": 6,
+        "Name": "Scope",
+        "Description": "Users",
+        "Type": "String",
+        "DefaultValue": "Users"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Receipt_Create",
+    "Description": "Qaiməni yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Receipt_Edit",
+    "Description": "Qaiməyə dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Role_Create",
+    "Description": "Rol yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Role_Edit",
+    "Description": "Rol dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Role_Cancel",
+    "Description": "Rol silmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Role_View",
+    "Description": "Rolları görmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Parking_Create",
+    "Description": "Dayanacaq yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Parking_Edit",
+    "Description": "Dayanacaq dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Parking_Cancel",
+    "Description": "Dayanacaq silmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Parking_View",
+    "Description": "Dayanacaqları görmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "City_Create",
+    "Description": "Şəhər yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "City_Edit",
+    "Description": "Şəhər dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "City_Cancel",
+    "Description": "Şəhər silmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "City_View",
+    "Description": "Şəhərləri görmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Department_Create",
+    "Description": "Departament yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Department_Edit",
+    "Description": "Departament dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "Department_Cancel",
+    "Description": "Departament silmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Department_View",
+    "Description": "Departamentləri görmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Region_Create",
+    "Description": "Region yaratmaq",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Region_Edit",
+    "Description": "Region dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Region_Cancel",
+    "Description": "Region silmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Region_View",
+    "Description": "Regionları görmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Queue_Edit",
+    "Description": "Növbə dəyişmək",
+    "Parameters": [
+
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Queue_View",
+    "Description": "Növbələri görmək",
+    "Parameters": [
+
+    ]
+  }
+]

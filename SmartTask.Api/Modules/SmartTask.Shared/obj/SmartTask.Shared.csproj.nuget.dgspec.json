@@ -1,0 +1,411 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared\\SmartTask.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\SmartTask.Shared.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\SmartTask.Shared.Dto.csproj",
+        "projectName": "SmartTask.Shared.Dto",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\SmartTask.Shared.Dto.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared\\SmartTask.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared\\SmartTask.Shared.csproj",
+        "projectName": "SmartTask.Shared",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared\\SmartTask.Shared.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\SmartTask.Shared.Dto.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\Modules\\SmartTask.Shared.Dto\\SmartTask.Shared.Dto.csproj"
+              },
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\SmartTask.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\SmartTask.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\SmartTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\SmartTask.Domain.csproj",
+        "projectName": "SmartTask.Domain",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\SmartTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\SmartTask.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\SmartTask.Infrastructure.csproj",
+        "projectName": "SmartTask.Infrastructure",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\SmartTask.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\SmartTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.Domain\\SmartTask.Domain.csproj"
+              },
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj"
+              },
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\SmartTask.SharedKernel.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\SmartTask.SharedKernel.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj",
+        "projectName": "SmartTask.SharedKernel.Domain",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\SmartTask.SharedKernel.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\SmartTask.SharedKernel.Infrastructure.csproj",
+        "projectName": "SmartTask.SharedKernel.Infrastructure",
+        "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\SmartTask.SharedKernel.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Desktop\\SmartTask\\SmartTask.Api\\SmartTask.SharedKernel.Domain\\SmartTask.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
